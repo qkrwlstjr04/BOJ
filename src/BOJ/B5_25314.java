@@ -2,7 +2,7 @@ package BOJ;
 
 
 import java.util.Scanner;
-public class B5_25314 {
+public class B5_25314 { // 입력되는 수는 4의 배수.  4의 배수마다 Long 출력하는 프로그램 
 	public static void main(String[ ] args) {
 		Scanner sc = new Scanner(System.in);
 		

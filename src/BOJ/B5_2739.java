@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class B5_2739 {
+public class B5_2739 { // 구구단을 출력하는 문제
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

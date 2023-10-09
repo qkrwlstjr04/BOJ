@@ -3,7 +3,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class B4_2480 {
+public class B4_2480 { // 1에서부터 6까지의 눈을 가진 3개의 주사위를 던져서 나온 값에 따라 상금을 받는 게임
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

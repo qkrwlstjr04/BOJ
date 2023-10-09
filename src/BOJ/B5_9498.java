@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class B5_9498 {
+public class B5_9498 { // 시험 점수를 성적으로 바꾸는 문제
 	public static void main(String[ ] args) {
 		Scanner sc = new Scanner(System.in);
 		

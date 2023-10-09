@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class B5_2753 {
+public class B5_2753 { // 윤년을 판별하는 문제 . 아직 못품
 	public static void main(String[ ] args) {
 		Scanner sc = new Scanner(System.in);
 		
