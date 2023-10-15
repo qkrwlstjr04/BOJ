@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class B2_10813 {
+public class B2_10813 { // 배열의 값을 교환하는 문제
 	public static void main(String[ ] args) {
 		Scanner sc = new Scanner(System.in);
 		
